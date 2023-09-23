@@ -7,4 +7,8 @@
     <color name="background_blue">#EFECFB</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <!-- Best and worst color -->
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="color_best_tip">#35BA01</color>
+
 </resources>
